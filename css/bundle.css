@@ -2,19 +2,19 @@
   font-family: "Transat";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/Transat/Light/transat_light-webfont.ttf") format("truetype"), url("../fonts/Transat/Light/transat_light-webfont.woff2") format("woff2"), url("../fonts/Transat/Light/transat_light-webfont.woff") format("woff"); }
+  src: url("../fonts/light1.ttf") format("truetype"), url("../fonts/light3.woff2") format("woff2"), url("../fonts/light2.woff") format("woff"); }
 
 @font-face {
   font-family: "Transat";
   font-style: normal;
   font-weight: 600;
-  src: url("../fonts/Transat/Medium/transat_medium-webfont.ttf") format("truetype"), url("../fonts/Transat/Medium/transat_medium-webfont.woff2") format("woff2"), url("../fonts/Transat/Medium/transat_medium-webfont.woff") format("woff"); }
+  src: url("../fonts/medium1.ttf") format("truetype"), url("../fonts/medium3.woff2") format("woff2"), url("../fonts/medium2.woff") format("woff"); }
 
 @font-face {
   font-family: "Transat";
   font-style: normal;
   font-weight: 700;
-  src: url("../fonts/Transat/Bold/transat_bold-webfont.ttf") format("truetype"), url("../fonts/Transat/Bold/transat_bold-webfont.woff2") format("woff2"), url("../fonts/Transat/Bold/transat_bold-webfont.woff") format("woff"); }
+  src: url("../fonts/bold1.ttf") format("truetype"), url("../fonts/bold3.woff2") format("woff2"), url("../fonts/bold2.woff") format("woff"); }
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /**
